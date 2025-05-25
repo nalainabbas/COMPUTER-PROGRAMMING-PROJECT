@@ -1,2 +1,3 @@
 # COMPUTER-PROGRAMMING-PROJECT
 Hello! this is my first semester Computer programming Project in which my team member and I have made a Cafe Management system using C++ language only.
+This Cafe Management System Proggram  shows the menu item to the customer with item number and ask the user to input the item number from 1 to 30 which they want to order and then it shows them the discount applied on them then it asks the user that user wants to order more or wants final bill if he enter "n or no" then final bill prints and if he wants to order more then he will enter"y or yes" to order more and in final it displays final bill .Today, we have finished our project of cafe management system only using C++. 
